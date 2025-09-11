@@ -46,6 +46,7 @@ To ensure **long-term economic viability** the network treasury **earns a commis
 | Event Predict | AI Model: Event-to-Outcome | [0xC99...dbb08](https://sepolia.basescan.org/address/0xC99ca65749826AD284270A70DaB19cDFB2Adbb08), [prev](https://sepolia.basescan.org/address/0xc1492B16C11CE580026c53B9F240aB082598CD8b) | ✅ | ✅ | 🛠️ |
 | IPFS Storage | Cloud Infra: IPFS Pinning Serices | [0x26a...02419](https://sepolia.basescan.org/address/0x26a9801866501AC86E118AC9e401f53e97a02419), [prev](https://sepolia.basescan.org/address/0x4C4Ab078Bd871Da161ccC8Ac8603A981183F545b) | ✅ | ✅ | 🛠️ |
 | Medical Q&A | AI Model: Medicine Fine-tuned LLM (Text-to-Text) | [0x701...0092f](https://sepolia.basescan.org/address/0x7011A90bDB621FFD75cbF97c59423636ebC0092f), [prev](https://sepolia.basescan.org/address/0xFf24e1259450D84727FB401C8fc036ce80Ac4721) | ✅ | ✅ | ✅ |
+| Binary Prediction Markets | AI Model: Market-to-Outcome | [0x0C7...7D19A](https://sepolia.basescan.org/address/0x0C72489d94950aE88eDB78edFAD61D494637D19A) | ✅ | ✅ | ✅ |
 
 **More in the works.**
 
